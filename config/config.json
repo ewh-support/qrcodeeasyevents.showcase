@@ -1,0 +1,6 @@
+{
+    "name": "EasyWeb AdminCP",
+    "version": 1.0,
+    "apiEndPoint" : "http://173.249.39.61:5100",
+    "websiteTitle" : "QRCode easyEvents"
+}
